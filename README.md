@@ -9,8 +9,8 @@ The overall goal of this assignment is to explore the National Emissions Invento
 You must address the following questions and tasks in your exploratory analysis. For each question/task you will need to make a single plot. Unless specified, you can use any plotting system in R to make your plot.
 
 1. Have total emissions from PM2.5 decreased in the United States from 1999 to 2008? Using the base plotting system, make a plot showing the total PM2.5 emission from all sources for each of the years 1999, 2002, 2005, and 2008.
-2. 
-Yes, PM 2.5 emissions have been on the decline since 1999.
+
+Yes, PM 2.5 emissions have been on the decline since 1999. 
 
 
 ![alt text](https://github.com/StarGazer007/National_Emissions_Inventory_database-/blob/master/plot1.png "1999, 2002, 2005, and 2008")
