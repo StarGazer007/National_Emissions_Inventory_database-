@@ -17,8 +17,6 @@ Yes, PM 2.5 emissions have been on the decline since 1999.
 
 
 
-
-
 2. Have total emissions from PM2.5 decreased in the Baltimore City, Maryland (fips == "24510") from 1999 to 2008? Use the base plotting system to make a plot answering this question.
  
 ![alt text](https://github.com/StarGazer007/National_Emissions_Inventory_database-/blob/master/plot2.png "1999, 2002, 2005, and 2008")
@@ -28,6 +26,13 @@ Yes, PM 2.5 emissions have been on the decline since 1999.
 ![alt text](https://github.com/StarGazer007/National_Emissions_Inventory_database-/blob/master/plot3.png "1999, 2002, 2005, and 2008")
 
 
-Across the United States, how have emissions from coal combustion-related sources changed from 1999–2008?
-How have emissions from motor vehicle sources changed from 1999–2008 in Baltimore City?
-Compare emissions from motor vehicle sources in Baltimore City with emissions from motor vehicle sources in Los Angeles County, California (fips == "06037"). Which city has seen greater changes over time in motor vehicle emissions?
+4. Across the United States, how have emissions from coal combustion-related sources changed from 1999–2008?
+![alt text](https://github.com/StarGazer007/National_Emissions_Inventory_database-/blob/master/plot4.png "1999, 2002, 2005, and 2008")
+
+
+5. How have emissions from motor vehicle sources changed from 1999–2008 in Baltimore City?
+![alt text](https://github.com/StarGazer007/National_Emissions_Inventory_database-/blob/master/plot5.png "1999, 2002, 2005, and 2008")
+
+
+6. Compare emissions from motor vehicle sources in Baltimore City with emissions from motor vehicle sources in Los Angeles County, California (fips == "06037"). Which city has seen greater changes over time in motor vehicle emissions?
+![alt text](https://github.com/StarGazer007/National_Emissions_Inventory_database-/blob/master/plot6.png "1999, 2002, 2005, and 2008")
