@@ -23,7 +23,11 @@ Yes, PM 2.5 emissions have been on the decline since 1999.
  
 ![alt text](https://github.com/StarGazer007/National_Emissions_Inventory_database-/blob/master/plot2.png "1999, 2002, 2005, and 2008")
 
-Of the four types of sources indicated by the type (point, nonpoint, onroad, nonroad) variable, which of these four sources have seen decreases in emissions from 1999–2008 for Baltimore City? Which have seen increases in emissions from 1999–2008? Use the ggplot2 plotting system to make a plot answer this question.
+3. Of the four types of sources indicated by the type (point, nonpoint, onroad, nonroad) variable, which of these four sources have seen decreases in emissions from 1999–2008 for Baltimore City? Which have seen increases in emissions from 1999–2008? Use the ggplot2 plotting system to make a plot answer this question.
+
+![alt text](https://github.com/StarGazer007/National_Emissions_Inventory_database-/blob/master/plot3.png "1999, 2002, 2005, and 2008")
+
+
 Across the United States, how have emissions from coal combustion-related sources changed from 1999–2008?
 How have emissions from motor vehicle sources changed from 1999–2008 in Baltimore City?
 Compare emissions from motor vehicle sources in Baltimore City with emissions from motor vehicle sources in Los Angeles County, California (fips == "06037"). Which city has seen greater changes over time in motor vehicle emissions?
