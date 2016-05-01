@@ -1,4 +1,4 @@
-# National_Emissions_Inventory_database-
+# National Emissions Inventory Database
 coursera-exploratory-data-analysis-course-project-2
 
 ##Assignment
@@ -19,7 +19,10 @@ Yes, PM 2.5 emissions have been on the decline since 1999.
 
 
 
-Have total emissions from PM2.5 decreased in the Baltimore City, Maryland (fips == "24510") from 1999 to 2008? Use the base plotting system to make a plot answering this question.
+2. Have total emissions from PM2.5 decreased in the Baltimore City, Maryland (fips == "24510") from 1999 to 2008? Use the base plotting system to make a plot answering this question.
+ 
+![alt text](https://github.com/StarGazer007/National_Emissions_Inventory_database-/blob/master/plot2.png "1999, 2002, 2005, and 2008")
+
 Of the four types of sources indicated by the type (point, nonpoint, onroad, nonroad) variable, which of these four sources have seen decreases in emissions from 1999–2008 for Baltimore City? Which have seen increases in emissions from 1999–2008? Use the ggplot2 plotting system to make a plot answer this question.
 Across the United States, how have emissions from coal combustion-related sources changed from 1999–2008?
 How have emissions from motor vehicle sources changed from 1999–2008 in Baltimore City?
